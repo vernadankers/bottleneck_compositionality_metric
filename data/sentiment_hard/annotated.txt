@@ -1,0 +1,333 @@
+207	sst	15	2	Illuminating if overly talky documentary .	mixed
+208	sst	21	2	A disturbing and frighteningly evocative assembly of imagery and hypnotic music composed by Philip Glass .	mixed
+209	sst	27	1	However , it lacks grandeur and that epic quality often associated with Stevenson 's tale as well as with earlier Disney efforts .	shifter::positive
+210	sst	29	4	Guaranteed to move anyone who ever shook , rattled , or rolled .	idioms::difficult-vocab
+211	sst	32	3	If there 's a way to effectively teach kids about the dangers of drugs , I think it 's in projects like the -LRB- unfortunately R-rated -RRB- Paid .	mixed
+212	sst	39	2	A heavy reliance on CGI technology is beginning to creep into the series .	world-knowledge::amplified::negative
+213	sst	40	4	Newton draws our attention like a magnet , and acts circles around her better known co-star , Mark Wahlberg .	comparative::mixed::idioms::positive
+214	sst	41	0	The story loses its bite in a last-minute happy ending that 's even less plausible than the rest of the picture .	comparative::idioms::negative::mixed
+215	sst	48	4	Tender yet lacerating and darkly funny fable .	difficult-vocab::positive::amplified::strong
+216	sst	60	2	Disney has always been hit-or-miss when bringing beloved kids ' books to the screen ... Tuck Everlasting is a little of both .	idioms::mixed
+217	sst	62	3	The invincible Werner Herzog is alive and well and living in LA	world-knowledge::positive::strong
+218	sst	64	1	Son of the Bride may be a good half-hour too long but comes replete with a flattering sense of mystery and quietness .	mixed::difficult-vocab
+219	sst	65	3	A simmering psychological drama in which the bursts of sudden violence are all the more startling for the slow buildup that has preceded them .	difficult-vocab::mixed
+220	sst	73	4	If this movie were a book , it would be a page-turner , you ca n't wait to see what happens next .	idioms::positive
+221	sst	75	1	Absorbing and disturbing -- perhaps more disturbing than originally intended -- but a little clarity would have gone a long way .	mixed::desirable-element::modality::reducer
+222	sst	81	4	Together , Tok and O orchestrate a buoyant , darkly funny dance of death .	difficult-vocab::idioms
+223	sst	87	4	The tenderness of the piece is still intact .	desirable-element::positive
+224	sst	90	1	While McFarlane 's animation lifts the film firmly above the level of other coming-of-age films ... it 's also so jarring that it 's hard to get back into the boys ' story .	mixed::idioms
+226	sst	95	4	... a roller-coaster ride of a movie	idioms::world-knowledge::positive
+229	sst	109	3	A mostly intelligent , engrossing and psychologically resonant suspenser .	difficult-vocab::positive::strong::amplified
+230	sst	111	2	Hip-hop has a history , and it 's a metaphor for this love story .	no-sentiment
+231	sst	117	1	Somewhere short of Tremors on the modern B-scene : neither as funny nor as clever , though an agreeably unpretentious way to spend ninety minutes .	positive::negated::comparative::mixed
+232	sst	119	2	Unlike most teen flicks , Swimming takes its time to tell its story , casts mostly little-known performers in key roles , and introduces some intriguing ambiguity .	comparative::positive
+233	sst	121	4	It 's obviously struck a responsive chord with many South Koreans , and should work its magic in other parts of the world .	idioms::positive::strong::difficult-vocab
+234	sst	123	4	A classy item by a legend who may have nothing left to prove but still has the chops and drive to show how its done .	difficult-vocab::positive
+235	sst	124	2	It is nature against progress .	no-sentiment
+236	sst	132	4	... In this incarnation its fizz is infectious .	difficult-vocab::negative
+237	sst	136	4	The film overcomes the regular minefield of coming-of-age cliches with potent doses of honesty and sensitivity .	negative::idioms::shifter::mixed::desirable-element::positive
+238	sst	139	4	It is intensely personal and yet -- unlike Quills -- deftly shows us the temper of the times .	comparative::difficult-vocab::positive::idioms
+239	sst	146	4	Waydowntown is by no means a perfect film , but its boasts a huge charm factor and smacks of originality .	mixed::negated::positive::strong
+240	sst	147	4	Tim Allen is great in his role but never hogs the scenes from his fellow cast , as there are plenty of laughs and good lines for everyone in this comedy .	positive::strong::negative::negated
+241	sst	169	3	Most of Crush is a clever and captivating romantic comedy with a welcome pinch of tartness .	positive::difficult-vocab
+242	sst	172	4	Rare is the ` urban comedy ' that even attempts the insight and honesty of this disarming indie .	difficult-vocab::idioms::positive::desirable-element
+243	sst	177	2	Maybe it 's just because this past year has seen the release of some of the worst film comedies in decades ... But honestly , Analyze That really is n't all that bad .	mixed::negative::negated::reducer
+244	sst	191	3	This insightful , Oscar-nominated documentary , in which children on both sides of the ever-escalating conflict have their say away from watchful parental eyes , gives peace yet another chance .	idioms::positive::mixed
+245	sst	194	4	... there are enough moments of heartbreaking honesty to keep one glued to the screen .	mixed::desirable-element::idioms::strong::positive
+246	sst	201	3	It is interesting and fun to see Goodall and her chimpanzees on the bigger-than-life screen .	positive
+247	sst	202	2	It wo n't bust your gut -- and it 's not intended to -- it 's merely a blandly cinematic surgical examination of what makes a joke a joke .	positive::idioms::negated::sarcasm/irony
+248	sst	205	3	Narc may not get an ` A ' for originality , but it wears its B-movie heritage like a badge of honor .	difficult-vocab::idioms::positive::mixed::negated::desirable-element
+249	sst	212	2	Purely propaganda , a work of unabashed hero worship , it is nonetheless -- and likely inadvertently -- a timely and invaluable implicit reminder of the role that U.S. foreign policy has played in the rise of Castro .	mixed
+250	sst	218	4	Visits spy-movie territory like a novel you ca n't put down , examines a footnote to history seldom brought to light on the screen , and keeps you guessing from first frame to last .	idioms::positive::strong
+251	sst	226	2	Polished Korean political-action film is just as good -- and bad -- as Hollywood action epics .	mixed
+252	sst	233	4	The passions aroused by the discord between old and new cultures are set against the strange , stark beauty of the Mideast desert , so lovingly and perceptively filmed that you can almost taste the desiccated air .	difficult-vocab::positive::amplified
+253	sst	237	4	A triumph of art direction over narrative , but what art direction !	difficult-vocab::non-standard spelling::positive::strong::comparative
+254	sst	254	2	You would n't call The Good Girl a date movie -LRB- an anti-date movie is more like it -RRB- , but when it 's good , it 's good and horrid .	mixed
+255	sst	259	4	The movie has a soft , percolating magic , a deadpan suspense .	desirable-element::positive::strong::difficult-vocab
+256	sst	260	3	A well-made and often lovely depiction of the mysteries of friendship .	positive
+257	sst	265	1	Has it ever been possible to say that Williams has truly inhabited a character ?	modality::positive
+258	sst	270	4	All the performances are top notch and , once you get through the accents , All or Nothing becomes an emotional , though still positive , wrench of a sit .	difficult-vocab::idioms::positive
+259	sst	285	3	It uses an old-time formula , it 's not terribly original and it 's rather messy -- but you just have to love the big , dumb , happy movie My Big Fat Greek Wedding .	mixed::desirable-element::negated::negative
+260	sst	286	4	It 's almost impossible not to be moved by the movie 's depiction of sacrifice and its stirring epilogue in post-Soviet Russia .	shifter::negated::positive::idioms
+261	sst	287	3	Who knows what exactly Godard is on about in this film , but his words and images do n't have to add up to mesmerize you .	positive::strong::mixed
+262	sst	289	4	The principals in this cast are all fine , but Bishop and Stevenson are standouts .	comparative::positive::strong
+264	sst	301	4	The film 's greatest asset is how much it 's not just another connect-the-dots , spy-on-the-run picture .	difficult-vocab::amplified::positive::desirable-element
+265	sst	303	4	It 's one of the saddest films I have ever seen that still manages to be uplifting but not overly sentimental .	mixed::negated::reducer::negative::positive
+266	sst	305	4	Even with all those rough edges safely sanded down , the American Insomnia is still pretty darned good .	positive::amplified::reducer
+267	sst	306	3	I do n't know precisely what to make of Steven Soderbergh 's Full Frontal , though that did n't stop me from enjoying much of it .	mixed::shifter::negated::positive
+268	sst	325	2	Girls gone wild and gone civil again	no-sentiment
+269	sst	326	2	... Tunney is allowed to build an uncommonly human character , an almost real-live girl complete with trouble and hope .	no-sentiment
+270	sst	329	3	Clever , brutal and strangely soulful movie .	positive::mixed::difficult-vocab
+271	sst	335	3	An involving true story of a Chinese actor who takes up drugs and winds up in an institution -- acted mostly by the actual people involved .	positive
+272	sst	341	4	It 's amazingly perceptive in its subtle , supportive but unsentimental look at the Marks family .	positive::amplified
+273	sst	354	4	A model of what films like this should be like .	idioms::strong::positive
+274	sst	355	4	As Weber and Weissman demonstrate with such insight and celebratory verve , the Cockettes were n't as much about gender , sexual preference or political agitprop as they were simply a triumph of the indomitable human will to rebel , connect and create .	positive
+275	sst	366	4	If no one singles out any of these performances as award-worthy , it 's only because we would expect nothing less from this bunch .	modality::desirable-element::difficult-vocab::negated::idioms
+276	sst	372	4	While not all transitions to adulthood are so fraught , there 's much truth and no small amount of poetry in Girls Ca n't Swim .	desirable-element::negated::reducer::idioms::positive
+277	sst	376	4	If you liked such movies as Notting Hill , Four Weddings And A Funeral , Bridget Jones ' Diary or High Fidelity , then you wo n't want to miss About A Boy .	negative::idioms::negated
+278	sst	379	4	Romanek keeps the film constantly taut ... reflecting the character 's instability with a metaphorical visual style and an unnerving , heartbeat-like score .	mixed::difficult-vocab
+279	sst	384	4	Often gruelling and heartbreaking to witness , but Seldahl and Wollter 's sterling performances raise this far above the level of the usual maudlin disease movie .	idioms::difficult-vocab::mixed::positive::strong
+280	sst	386	4	The stunning , dreamlike visuals will impress even those viewers who have little patience for Euro-film pretension .	mixed::strong::positive
+281	sst	389	4	Murderous Maids may well be the most comprehensive of these films and also strike closest to the truth .	comparative::positive::amplified
+282	sst	395	3	A slick , skillful little horror film .	positive
+283	sst	399	3	despite the long running time , the pace never feels slack -- there 's no scene that screams `` bathroom break ! ''	desirable-element::negative::negated::positive
+284	sst	410	4	It represents better-than-average movie-making that does n't demand a dumb , distracted audience .	negative::negated::non-standard spelling::comparative
+285	sst	411	4	A charming yet poignant tale of the irrevocable ties that bind .	difficult-vocab::positive
+286	sst	417	4	The movie has an avalanche of eye-popping visual effects .	difficult-vocab::positive
+287	sst	420	4	Most impressive , though , is the film 's open-ended finale that refuses to entirely close its characters ' emotional wounds .	comparative::positive
+288	sst	426	3	It 's a sly wink to The Others without becoming a postmodern joke , made creepy by its `` men in a sardine can '' warped logic .	positive::mixed::shifter::negative
+289	sst	428	3	Still pretentious and filled with subtext , but entertaining enough at ` face value ' to recommend to anyone looking for something different .	mixed::difficult-vocab
+290	sst	436	2	Whether Kiss is a future cult classic or destined to be completely forgotten is open to question , but the risk-takers in the crowd should check it out and form their own opinion .	mixed
+291	sst	443	3	The story feels more like a serious read , filled with heavy doses of always enticing Sayles dialogue .	world-knowledge::desirable-element::positive
+292	sst	449	4	Only an epic documentary could get it all down , and Spike Lee 's Jim Brown : All American at long last gives its subject a movie worthy of his talents .	positive::strong::world-knowledge
+293	sst	450	4	... as the story congeals you feel the pieces of the Star Wars saga falling into place in a way that makes your spine tingle with revelation and excitement .	positive::strong::difficult-vocab
+294	sst	462	4	One of the best examples of how to treat a subject , you 're not fully aware is being examined , much like a photo of yourself you did n't know was being taken .	positive::strong::comparative
+295	sst	464	3	As if to prove a female director can make a movie with no soft edges , Kathryn Bigelow offers no sugar-coating or interludes of lightness .	desirable-element::negative::negated
+297	sst	471	2	He can scale a building like a super hero , he can out-stealth any agent , he 'll get the girl .	positive::morphology
+298	sst	478	4	The film delivers not just the full assault of Reno 's immense wit and insight , but a time travel back to what it felt like during those unforgettably uncertain days .	positive::amplified::idioms::mixed
+299	sst	496	4	There 's no denying the physically spectacular qualities of the film ... or the emotional integrity of the performances .	positive::idioms::strong
+300	sst	499	2	Stevenson 's performance is at once clueless and fiercely committed , a volatile combination .	mixed
+301	sst	510	3	A psychologically rich and suspenseful moral thriller with a stellar performance by Al Pacino .	positive
+302	sst	514	4	Provide -LRB- s -RRB- nail-biting suspense and credible characters without relying on technology-of-the-moment technique or pretentious dialogue .	positive::strong::desirable-element::mixed
+303	sst	515	3	If it tried to do anything more , it would fail and perhaps explode , but at this level of manic whimsy , it is just about right .	modality::mixed
+304	sst	520	4	This road movie gives you emotional whiplash , and you 'll be glad you went along for the ride .	mixed::positive::idioms
+305	sst	548	4	Hilarious , acidic Brit comedy .	strong::positive::difficult-vocab
+306	sst	592	4	-LRB- Director Peter -RRB- Jackson and his crew have so steeped themselves in the majesty of Tolkien 's writing that every frame produces new joys , whether you 're a fan of the books or not .	positive::modality::mixed
+307	sst	605	4	another great ` what you do n't see ' is much more terrifying than what you do see thriller , coupled with some arresting effects , incandescent tones and stupendous performances	positive::strong::mixed
+308	sst	616	4	Compelling as it is exotic , Fast Runner has a plot that rivals Shakespeare for intrigue , treachery and murder .	desirable-element::negative::positive
+309	sst	622	4	Bow 's best moments are when he 's getting busy on the basketball court because that 's when he really scores .	positive::strong
+310	sst	624	1	In the end , Punch-Drunk Love is one of those films that I wanted to like much more than I actually did .	comparative::modality
+311	sst	635	2	No question .	no-sentiment::negated
+312	sst	637	3	What Full Frontal lacks in thematic coherence it largely makes up for as loosey-goosey , experimental entertainment .	desirable-element::positive::shifter::difficult-vocab::idioms
+314	sst	644	0	Do n't expect any surprises in this checklist of teamwork cliches ...	desirable-element::negated::positive
+315	sst	649	4	This is a happy throwback to the time when cartoons were cinema 's most idiosyncratic form instead of one of its most predictable .	positive::difficult-vocab::comparative
+316	sst	660	2	But if you expect light romantic comedy , good gosh , will you be shocked .	negative
+317	sst	673	3	When your leading ladies are a couple of screen-eating dominatrixes like Goldie Hawn and Susan Sarandon at their raunchy best , even hokum goes down easily .	difficult-vocab::positive::idioms
+318	sst	681	1	It 's fairly self-aware in its dumbness .	negative::difficult-vocab
+319	sst	687	4	The film benefits greatly from a less manic tone than its predecessor , as Cho appears to have settled comfortably into her skin .	comparative::positive::amplified
+320	sst	706	0	Just another fish-out-of-water story that barely stays afloat .	sarcasm/irony::morphology::difficult-vocab::negative
+321	sst	725	2	Not as distinctive or even as humorous as its needs to be to stand out , but it has clearly been made with affection and care .	mixed::reducer::positive
+322	sst	737	3	Happily for Mr. Chin -- though unhappily for his subjects -- the invisible hand of the marketplace wrote a script that no human screenwriter could have hoped to match .	mixed
+323	sst	739	2	the plot is so amusingly contrived and outlandish in its coincidences that no one could ever mistake it for anything resembling reality	mixed
+324	sst	742	3	-LRB- Fessenden -RRB- is much more into ambiguity and creating mood than he is for on screen thrills	comparative::positive
+325	sst	743	4	The comic performances are all spot on , especially Lee Ross 's turn as Ken .	idioms::positive::strong
+326	sst	744	3	a compelling journey ... and `` His Best Friend Remembers '' is up there with the finest of specials .	idioms::positive
+327	sst	746	3	The Hours makes you examine your own life in much the same way its characters do , and the experience is profound .	positive
+328	sst	747	4	The Hours is what movies are supposed to be ...	idioms::positive::world-knowledge::strong
+329	sst	754	2	The ending does leave you unfulfilled , but these are performances to enjoy in a memorable ensemble piece .	mixed
+331	sst	758	3	I do n't think I 've been as entranced and appalled by an Asian film since Shinya Tsukamoto 's Iron Man .	mixed
+332	sst	760	4	Director Benoit Jacquot , making his first opera-to-film translation with Tosca , conveys the heaving passion of Puccini 's famous love-jealousy - murder-suicide fandango with great cinematic innovation .	morphology::difficult-vocab::positive::amplified
+333	sst	761	2	Lilia 's transformation from strict mother to sensual siren is superficially preposterous , but Abbas infuses the role with an unimpeachable core of emotional truth .	mixed::difficult-vocab
+335	sst	789	4	Cho 's fearless in picking apart human foibles , not afraid to lay her life bare in front of an audience .	negative::negated::positive::strong
+336	sst	795	3	Occasionally , in the course of reviewing art-house obscurities and slam-bam action flicks , a jaded critic smacks into something truly new .	morphology::positive::amplified::mixed
+337	sst	805	2	Boisterous and daft documentary .	mixed
+339	sst	812	4	It 's as close as we 'll ever come to looking through a photographer 's viewfinder as he works .	world-knowledge::positive
+340	sst	816	3	You have to pay attention to follow all the stories , but they 're each interesting .	positive
+341	sst	820	4	A psychological thriller with a smart script and an obsessive-compulsive 's attention to detail .	morphology::desirable-element::strong::positive
+343	sst	831	3	Smart science fiction for grown-ups , with only a few false steps along the way .	mixed::positive
+344	sst	835	4	Lathan and Diggs have considerable personal charm , and their screen rapport makes the old story seem new .	desirable-element::positive::amplified
+345	sst	836	4	The story may not be new , but Australian director John Polson , making his American feature debut , jazzes it up adroitly .	difficult-vocab::positive::amplified
+346	sst	863	3	The spark of special anime magic here is unmistakable and hard to resist .	positive::idioms
+347	sst	865	2	Baran is n't the most transporting or gripping film from Iran -- or , indeed , by its director -- but it 's a worthy companion to the many fine , focused films emerging from that most surprising of nations .	mixed
+348	sst	887	2	Engrossing and affecting , if ultimately not quite satisfying .	mixed
+349	sst	893	3	Not a bad journey at all .	negative::negated
+350	sst	903	4	Huppert gives Erika a persona that is so intriguing that you find yourself staring hypnotically at her , trying to understand her and wondering if she 'll crack .	positive::modality
+351	sst	908	4	It is a kickass , dense sci-fi action thriller hybrid that delivers and then some .	positive::strong
+352	sst	909	2	I have n't seen one in so long , no wonder I did n't recognize it at first .	no-sentiment
+353	sst	913	4	... Blade II is more enjoyable than the original .	positive::comparative
+354	sst	917	3	The film starts out as competent but unremarkable ... and gradually grows into something of considerable power .	mixed::desirable-element::positive
+355	sst	932	2	The AM-radio soundtrack and game cast -- Tierney and the inimitable Walken especially -- keep this unusual comedy from choking on its own conceit .	mixed
+356	sst	933	2	... does such a fine job of engulfing you in its world and allying you with its characters ' choices , good and ill , that its shortcomings are remembered only as an afterthought .	mixed
+357	sst	936	4	Novak manages to capture a cruelly hilarious vein of black comedy in the situation with his cast of non-actors and a gritty , no-budget approach .	mixed::positive::strong::morphology
+358	sst	938	1	Still , I thought it could have been more .	modality::positive::comparative
+359	sst	948	4	Throwing caution to the wind with an invitation to the hedonist in us all , Nair has constructed this motion picture in such a way that even the most cynical curmudgeon with find himself or herself smiling at one time or another .	difficult-vocab::mixed::positive
+360	sst	953	2	Frailty is n't as gory or explicit .	negative::negated
+361	sst	956	3	The long-range appeal of `` Minority Report '' should transcend any awards it bags .	positive::desirable-element
+362	sst	959	4	Much monkeyfun for all .	difficult-vocab::positive
+363	sst	963	4	The Powers team has fashioned a comedy with more laughs than many , no question .	desirable-element::positive::comparative
+364	sst	967	4	A film that is a portrait of grace in an imperfect world .	mixed::desirable-element::positive
+365	sst	972	4	An enjoyably half-wit remake of the venerable Italian comedy Big Deal on Madonna Street .	morphology::positive
+366	sst	998	4	Biggie and Tupac is so single-mindedly daring , it puts far more polished documentaries to shame .	morphology::difficult-vocab::idioms::positive::strong::comparative
+367	sst	1013	3	A captivating cross-cultural comedy of manners .	morphology::positive
+368	sst	1017	4	It 's -LRB- Ricci 's -RRB- best work yet , this girl-woman who sincerely believes she can thwart the world 's misery with blind good will .	positive::amplified::mixed
+369	sst	1019	4	-LRB- Howard -RRB- so good as Leon Barlow ... that he hardly seems to be acting .	positive::world-knowledge
+372	sst	1038	3	One of the most haunting , viciously honest coming-of-age films in recent memory .	positive::amplified
+373	sst	1039	4	The WWII drama is well plotted , visually striking and filled with enjoyably complex characters who are never what they first appear .	positive::strong
+374	sst	1040	4	It 's a pleasure to see Seinfeld griping about the biz with buddies Chris Rock , Garry Shandling and Colin Quinn .	positive::strong::mixed
+375	sst	1045	3	It 's like a poem .	desirable-element::positive
+376	sst	1051	3	Sturdy , entertaining period drama ... both Caine and Fraser have their moments .	positive
+378	sst	1074	0	The film seems a dead weight .	negative::strong::idioms
+379	sst	1081	0	The ending is a cop-out .	idioms::negative::strong::morphology
+380	sst	1085	1	Remember when Bond had more glamour than clamor ?	comparative::negative
+381	sst	1087	2	Cry havoc and let slip the dogs of cheese , indeed .	no-sentiment
+382	sst	1094	0	Most of the supporting characters in Eastwood films are weak , as are most of the subplots .	negative
+383	sst	1095	0	This one 's weaker than most .	comparative::negative
+384	sst	1109	1	I doubt anyone will remember the picture by the time Christmas really rolls around , but maybe it 'll be on video by then .	positive::shifter
+385	sst	1127	4	The use of CGI and digital ink-and-paint make the thing look really slick .	morphology::amplified::positive
+386	sst	1131	0	Proves that a movie about goodness is not the same thing as a good movie .	comparative::negated::positive
+387	sst	1139	0	While the film misfires at every level , the biggest downside is the paucity of laughter in what 's supposed to be a comedy .	strong::negative::shifter::desirable-element::positive
+388	sst	1143	1	She lists ingredients , but never mixes and stirs .	world-knowledge
+390	sst	1147	0	Credibility levels are low and character development a non-starter .	negative::morphology
+391	sst	1148	1	I would have preferred a transfer down the hall to Mr. Holland 's class for the music , or to Robin Williams 's lecture so I could listen to a teacher with humor , passion , and verve .	modality::positive
+392	sst	1151	4	An earnest , heartrending look at the divide between religious fundamentalists and their gay relatives .	positive::strong::difficult-vocab
+393	sst	1156	0	This is a throwaway , junk-food movie whose rap soundtrack was better tended to than the film itself .	strong::negative::difficult-vocab::morphology
+396	sst	1160	1	Arguably the year 's silliest and most incoherent movie .	comparative::negative::amplified
+397	sst	1161	2	Anyway , for one reason or another , Crush turns into a dire drama partway through .	no-sentiment
+398	sst	1165	0	He has not learnt that storytelling is what the movies are about .	desirable-element::negated::positive
+399	sst	1171	0	So what is the point ?	negative::modality
+400	sst	1173	1	This is junk food cinema at its greasiest .	comparative::negative
+401	sst	1174	4	When it 's all wet , Blue Crush is highly enjoyable .	amplified::positive
+402	sst	1177	0	Some , like Ballistic , arrive stillborn ... looking like the beaten , well-worn video box cover of seven years into the future .	negative::strong
+403	sst	1198	1	It 's laughing at us .	negative::idioms
+404	sst	1200	2	Every good actor needs to do his or her own Hamlet .	no-sentiment
+405	sst	1204	2	Both awful and appealing .	mixed
+406	sst	1213	4	The Movie will reach far beyond its core demographic .	idioms::positive::amplified
+407	sst	1225	2	It 's not that Waiting For Happiness is a bad film , because it is n't .	negative::negated
+408	sst	1234	0	Shadyac shoots his film like an M. Night Shyamalan movie , and he frequently maintains the same snail 's pace ; he just forgot to add any genuine tension .	shifter::positive::desirable-element
+409	sst	1249	1	The story is familiar from its many predecessors ; like them , it eventually culminates in the not-exactly - stunning insight that crime does n't pay .	morphology::positive::reducer::negated
+410	sst	1251	0	You 'll be more entertained getting hit by a bus .	sarcasm/irony::comparative::positive::world-knowledge
+411	sst	1259	0	The Sum of All Fears is almost impossible to follow -- and there 's something cringe-inducing about seeing an American football stadium nuked as pop entertainment .	morphology::negative::idioms::strong
+413	sst	1270	1	A gimmick in search of a movie : how to get Carvey into as many silly costumes and deliver as many silly voices as possible , plot mechanics be damned .	sarcasm/irony::negative
+414	sst	1272	1	... fifty minutes of tedious adolescent melodramatics followed by thirty-five minutes of inflated nonsense .	negative
+415	sst	1273	2	... lacks the punch and verve needed to make this genre soar .	desirable-element::shifter::positive
+416	sst	1275	2	It 's tough , astringent , darkly funny and ... well , it 's also generic , untidy , condescending and mild of impact rather than stunning .	mixed
+417	sst	1282	1	A strong first quarter , slightly less so second quarter , and average second half .	mixed
+418	sst	1284	1	The vampire thriller Blade II starts off as a wild hoot and then sucks the blood out of its fun -- toward the end , you can feel your veins cringing from the workout .	mixed::difficult-vocab::negative
+419	sst	1287	2	The final result makes for adequate entertainment , I suppose , but anyone who has seen Chicago on stage will leave the theater feeling they 've watched nothing but a pale imitation of the real deal .	mixed
+420	sst	1292	2	It 's fun , but a psychological mess , with Austin Powers bumping his head on the way out of the closet .	mixed
+421	sst	1299	0	The film would work much better as a video installation in a museum , where viewers would be free to leave .	modality::world-knowledge::negative::strong
+422	sst	1308	0	Obstacles are too easily overcome and there is n't much in the way of character development in the script .	desirable-element::negated::positive
+423	sst	1317	2	This is really just another genre picture .	no-sentiment
+425	sst	1325	0	` Enigma ' is a good name for a movie this delibrately obtuse and unapproachable .	strong::negative::difficult-vocab
+426	sst	1331	0	Like so many other allegedly scary movies , it gets so tangled up in The Twist that it chokes the energy right out of the very audience it seeks to frighten .	negative::idioms
+427	sst	1333	0	Just like Hearst 's enormous yacht , it 's slow and unwieldy and takes a long time to reach its destination .	negative
+428	sst	1334	0	There is not a character in the movie with a shred of plausibility , not an event that is believable , not a confrontation that is not staged , not a moment that is not false .	desirable-element::negated::positive
+429	sst	1335	1	Where last time jokes flowed out of Cho 's life story , which provided an engrossing dramatic through line , here the comedian hides behind obviously constructed routines .	mixed
+430	sst	1342	3	Wasabi is slight fare indeed , with the entire project having the feel of something tossed off quickly -LRB- like one of Hubert 's punches -RRB- , but it should go down smoothly enough with popcorn .	mixed
+431	sst	1349	0	This time Kaufman 's imagination has failed him .	idioms::negative
+432	sst	1358	2	Director Clare Kilner 's debut is never as daft as it should have been .	no-sentiment
+433	sst	1368	2	It is , by conventional standards , a fairly terrible movie ... but it is also weirdly fascinating , a ready-made Eurotrash cult object .	mixed
+434	sst	1375	1	Offensive in the way it exploits the hot-button issue of domestic abuse for cheap thrills and disgusting in the manner it repeatedly puts a small child in jeopardy , treating her as little more than a prop to be cruelly tormented .	negative
+435	sst	1383	2	Great story , bad idea for a movie .	mixed
+437	sst	1387	2	`` My god , I 'm behaving like an idiot ! ''	no-sentiment
+438	sst	1393	0	All I can say is fuhgeddaboutit .	non-standard spelling::sarcasm/irony
+439	sst	1400	0	Spousal abuse is a major problem in contemporary society , but the film reduces this domestic tragedy to florid melodrama .	negative::strong
+440	sst	1401	0	Oedekerk wrote Patch Adams , for which he should not be forgiven .	negative::idioms::strong
+441	sst	1415	0	Writhing under dialogue like ` You 're from two different worlds ' and ` Tonight the maid is a lie and this , this is who you are , ' this schlock-filled fairy tale hits new depths of unoriginality and predictability .	difficult-vocab::morphology::negative
+442	sst	1416	0	... too slow , too boring , and occasionally annoying .	amplified::negative
+443	sst	1417	2	Is there enough material to merit a documentary on the making of Wilco 's last album ?	no-sentiment
+444	sst	1421	0	Scotland , Pa. is a strangely drab romp .	amplified::negative::difficult-vocab
+446	sst	1438	0	This is n't just the CliffsNotes version of Nicholas Nickleby , it 's the CliffsNotes with pages missing .	world-knowledge::negative::strong::sarcasm/irony
+447	sst	1440	0	Better at putting you to sleep than a sound machine .	world-knowledge::negative::strong::sarcasm/irony
+448	sst	1441	1	So clichéd that , at one point , they literally upset an apple cart .	world-knowledge::negative::amplified
+449	sst	1453	0	Some of Seagal 's action pictures are guilty pleasures , but this one is so formulaic that it seems to be on auto-pilot .	negative::amplified
+451	sst	1472	2	The title helpfully offers the most succinct review of it you 'll read anywhere .	no-sentiment
+452	sst	1473	1	The makers of Divine Secrets of the Ya-Ya Sisterhood should offer a free ticket -LRB- second prize , of course , two free tickets -RRB- to anyone who can locate a genuinely honest moment in their movie .	sarcasm/irony
+453	sst	1475	0	Let 's cut to the consumer-advice bottom line : Stay home .	negative::strong::world-knowledge
+454	sst	1481	0	Even the unwatchable Soapdish is more original .	comparative::negative::strong
+455	sst	1492	0	This self-infatuated goofball is far from the only thing wrong with the clumsy comedy Stealing Harvard , but he 's the most obvious one .	difficult-vocab::negative
+456	sst	1507	0	We never really feel involved with the story , as all of its ideas remain just that : abstract ideas .	desirable-element::positive::negated
+457	sst	1517	0	Matthew McConaughey tries , and fails , to control the screen with swaggering machismo and over-the-top lunacy .	morphology::negative
+458	sst	1525	2	It 's a worse sign when you begin to envy her condition .	no-sentiment
+459	sst	1533	0	As -LRB- the characters -RRB- get more depressed , the story gets more tiresome , especially as it continues to mount a conspicuous effort to be profound .	negative::comparative
+460	sst	1549	0	Trivial where it should be profound , and hyper-cliched where it should be sincere .	mixed::comparative::negative::morphology
+462	sst	1566	0	Made by jackasses for jackasses .	negative::strong
+463	sst	1572	0	Philip K. Dick must be turning in his grave , along with my stomach .	idioms::negative::strong
+464	sst	1579	0	It 's difficult to say whether The Tuxedo is more boring or embarrassing -- I 'm prepared to call it a draw .	negative::strong::sarcasm/irony::comparative
+465	sst	1601	0	As written by Michael Berg and Michael J. Wilson from a story by Wilson , this relentless , all-wise-guys-all-the-time approach tries way too hard and gets tiring in no time at all .	morphology::negative::amplified
+466	sst	1602	1	Will probably stay in the shadow of its two older , more accessible Qatsi siblings .	comparative::idioms::negative
+467	sst	1607	0	If you 're looking for comedy to be served up , better look elsewhere .	idioms::negative
+468	sst	1608	1	It virtually defines a comedy that 's strongly mediocre , with funny bits surfacing every once in a while .	amplified::negative::mixed
+469	sst	1612	0	Adam Sandler is to Gary Cooper what a gnat is to a racehorse .	comparative::world-knowledge::negative::strong
+470	sst	1615	2	Beers , who , when she 's given the right lines , can charm the paint off the wall ... -LRB- but -RRB- the script goes wrong at several key junctures .	mixed
+472	sst	1621	0	Wait for video -- and then do n't rent it .	negated::positive
+473	sst	1622	2	The attempt is courageous , even if the result is wildly uneven .	mixed
+474	sst	1624	0	Too much of this well-acted but dangerously slow thriller feels like a preamble to a bigger , more complicated story , one that never materializes .	mixed::amplified::negative
+475	sst	1627	0	Unfortunately , Heartbreak Hospital wants to convey the same kind of haughtiness in its own sketchy material but this territory has already been explored previously with better aplomb and sardonic wit .	negative::strong::mixed
+477	sst	1631	2	Taken purely as an exercise in style , this oppressively gloomy techno-horror clambake is impossible to ignore .	mixed
+478	sst	1634	0	The backyard battles you staged with your green plastic army men were more exciting and almost certainly made more sense .	sarcasm/irony::world-knowledge::comparative
+479	sst	1639	2	Had the film boasted a clearer , more memorable , the creepiness would have gotten under the skin .	modality::positive::mixed
+480	sst	1640	0	These people would n't know subtle characterization if it put on a giant furry monster costume and then gave them a lapdance .	sarcasm/irony::desirable-element::positive::negated
+481	sst	1644	1	The director 's twitchy sketchbook style and adroit perspective shifts grow wearisome amid leaden pacing and indifferent craftsmanship -LRB- most notably wretched sound design -RRB- .	negative::difficult-vocab
+482	sst	1647	0	Marisa Tomei is good , but Just A Kiss is just a mess .	mixed::idioms::negative::strong
+483	sst	1648	0	Opens at a funeral , ends on the protagonist 's death bed and does n't get much livelier in the three hours in between .	sarcasm/irony::positive::negated
+484	sst	1675	0	If this is the resurrection of the Halloween franchise , it would have been better off dead .	modality::sarcasm/irony::strong::negative
+486	sst	1690	1	It 's a movie forged in the fires of Chick Flick Hell .	world-knowledge::sarcasm/irony::negative
+487	sst	1696	0	Denzel Washington 's efforts are sunk by all the sanctimony .	negative::desirable-element
+488	sst	1704	2	Haneke keeps us at arm 's length .	no-sentiment
+489	sst	1705	0	Guided more by intellect than heart , his story flattens instead of sharpens .	comparative::negative
+491	sst	1709	2	This is an hour and a half of daydreaming .	no-sentiment
+492	sst	1717	2	The movie is too cute to take itself too seriously , but it still feels like it was made by some very stoned college students .	mixed
+493	sst	1723	0	But here 's the real damn : It is n't funny , either .	positive::negated
+494	sst	1725	2	The reason I found myself finally unmoved by this film , which is immaculately produced and has serious things to say , is that it comes across rather too plainly as allegory .	mixed
+495	sst	1736	1	So lazy and slipshod it confuses the mere flashing of kinky soft-core imagery with naughty fun .	difficult-vocab::negative
+496	sst	1741	0	If Melville is creatively a great whale , this film is canned tuna .	comparative::sarcasm/irony::world-knowledge
+497	sst	1743	0	Just one more collection of penis , breast and flatulence gags in search of a story .	world-knowledge::negative::strong
+498	sst	1747	0	Enough trivializes an important crisis , reduces it to an almost comic embarrassment .	negative
+499	sst	1749	3	I like Frank the Pug , though .	positive
+500	sst	1756	0	Madonna still ca n't act a lick .	idioms::negative::strong
+501	sst	1769	1	... perhaps the heaviest , most joyless movie ever made about giant dragons taking over the world .	negative::amplified::comparative
+502	sst	1777	2	Even if you feel like you 've seen this movie a thousand times before , it is kind of enjoyable thanks mainly to Belushi 's easy-going likableness .	mixed::morphology
+503	sst	1778	1	The story bogs down in a mess of purposeless violence .	idioms::negative::desirable-element
+504	sst	1782	2	The cumulative effect of the relentless horror on parade numbs the movie 's power as a work of drama .	mixed
+505	sst	1785	0	When she speaks , her creepy Egyptian demigod voice is as computer processed and overproduced as it was in her music .	comparative::negative
+506	sst	1787	1	We miss the quirky amazement that used to come along for an integral part of the ride .	desirable-element::positive::shifter
+507	sst	1793	2	Passion , lip-synching , tragedy , and lots of really really high notes .	mixed
+508	sst	1795	0	Looks like a high school film project completed the day before it was due .	world-knowledge::sarcasm/irony::negative
+509	sst	1797	0	Abandons all pretense of creating historical context and waltzes off into a hectic soap about the ups and downs of the heavy breathing between the two artists .	desirable-element::positive::shifter
+510	sst	1798	0	Even die-hard fans of Japanese animation ... will find this one a challenge .	negative::idioms
+511	sst	1808	0	Automatically pegs itself for the straight-to-video sci-fi rental shelf .	negative::morphology
+512	sst	1809	0	The film is like a series of beginnings and middles that never take off .	negative::idioms
+513	sst	1816	2	In the end , White Oleander is n't an adaptation of a novel .	no-sentiment
+514	sst	1820	2	Just one problem : Fish out of water usually die .	no-sentiment
+515	sst	1822	0	The angst-ridden , affluent slacker characters are more grating than engaging .	negative::amplified
+516	sst	1823	1	A soggy , shapeless mess ... just a dumb excuse for a waterlogged equivalent of a haunted-house movie .	negative
+517	sst	1854	0	The cold and dreary weather is a perfect metaphor for the movie itself , which contains few laughs and not much drama .	desirable-element::positive::negated
+518	sst	1856	0	ordinary melodrama that is heavy on religious symbols but wafer-thin on dramatic substance	desirable-element::positive::shifter
+519	sst	1862	1	Static , repetitive , muddy and blurry , Hey Arnold !	negative
+520	sst	1866	2	What The Four Feathers lacks is genuine sweep or feeling or even a character worth caring about .	desirable-element::positive::shifter
+521	sst	1873	0	As elegantly crafted as it often is , Anderson 's movie is essentially a one-trick pony that , hampered by an undeveloped script , ultimately pulls up lame .	negative::idioms
+522	sst	1877	2	This kind of dark comedy requires a delicate , surgical touch .	no-sentiment
+523	sst	1881	3	Rather quickly , the film falls into a soothing formula of brotherly conflict and reconciliation .	positive
+524	sst	1887	1	Liman , of Swingers and Go , makes his big-budget action film debut something of a clunker as he delivers a long , low-heat chase , interrupted by a middling car chase .	negative
+525	sst	1901	0	If this is the Danish idea of a good time , prospective tourists might want to consider a different destination -- some jolly country embroiled in a bloody civil war , perhaps .	modality::sarcasm/irony
+527	sst	1928	0	Others may find it migraine-inducing , despite Moore 's attempts at whimsy and spoon feeding .	mixed::morphology::strong::negative
+528	sst	1929	2	Despite its good nature and some genuinely funny moments , Super Troopers suffers from a bad case of arrested development .	mixed
+529	sst	1930	0	It 's hard not to feel you 've just watched a feature-length video game with some really heavy back story .	sarcasm/irony::world-knowledge
+530	sst	1931	0	I watched the brainless insanity of No Such Thing with mounting disbelief .	negative::strong
+531	sst	1935	1	Any movie this boring should be required to have ushers in the theater that hand you a cup of coffee every few minutes .	negative::sarcasm/irony
+532	sst	1942	2	A gorgeous , somnolent show that is splendidly mummified and thoroughly unsurprising .	mixed
+533	sst	1943	0	It feels like a community theater production of a great Broadway play : Even at its best , it will never hold a candle to the original .	sarcasm/irony::world-knowledge::idioms::negative
+534	sst	1948	1	A graceless , witless attempt at mating Some Like It Hot with the WWII espionage thriller .	negative
+535	sst	1965	0	This is n't a `` Friday '' worth waiting for .	desirable-element::negated::positive
+536	sst	1982	0	I wish I could say `` Thank God It 's Friday '' , but the truth of the matter is I was glad when it was over .	idioms::negative
+537	sst	1990	0	The film makes a tragic error by going on for too long , trying to mirror every subsequent event in Chinese history : war , revolution , Communism , etc. .	negative::amplified
+538	sst	2009	1	George , hire a real director and good writers for the next installment , please .	desirable-element::positive::shifter
+539	sst	2029	0	De Niro may enjoy the same free ride from critics afforded to Clint Eastwood in the lazy Bloodwork .	negative
+540	sst	2036	1	But what saves lives on the freeway does not necessarily make for persuasive viewing .	desirable-element::positive::negated
+541	sst	2037	2	The Marquis de Sade could n't have been as dull a person as this film makes him out to be .	negative
+542	sst	2050	0	The Weight of Water uses water as a metaphor for subconscious desire , but this leaky script barely stays afloat .	negative::idioms
+543	sst	2075	0	Watching it is rather like an overlong visit from a large group of your relatives .	world-knowledge::negative::idioms
+544	sst	2078	1	On the right track to something that 's creepy and effective ... It 's just going to take more than a man in a Bullwinkle costume to get there .	mixed
+545	sst	2086	0	Showtime is one of the hapless victims of the arrogant `` if we put together a wry white man and a chatty black man and give them guns , the movie will be funny '' syndrome .	world-knowledge::sarcasm/irony::negative
+546	sst	2087	1	Sushi for the connoisseurs of the macabre .	sarcasm/irony
+547	sst	2094	0	You 're better off staying home and watching The X-Files .	idioms::negative::strong
+548	sst	2100	2	Brimful .	no-sentiment
+549	sst	2102	1	I weep for the future when a good portion of the respected critical community in this country consider Blue Crush to be an intelligent film about young women .	idioms::negative
+550	sst	2116	2	The journey toward redemption feels more like a cinematic experiment than a full-blown movie .	mixed
+551	sst	2130	0	Suffocated at conception by its Munchausen-by-proxy mum .	morphology::sarcasm/irony::negative
+552	sst	2131	1	Punish the vehicle to adore the star .	negative::sarcasm/irony
+553	sst	2144	0	It 's an awfully derivative story .	negative::amplified
+554	sst	2157	0	An atonal estrogen opera that demonizes feminism while gifting the most sympathetic male of the piece with a nice vomit bath at his wedding .	negative::difficult-vocab::strong
+555	sst	2164	1	The best way to hope for any chance of enjoying this film is by lowering your expectations .	idioms::negative
+556	sst	2168	1	A woozy , roisterous , exhausting mess , and the off-beat casting of its two leads turns out to be as ill-starred as you might expect .	negative::idioms::difficult-vocab
+557	sst	2173	0	Watching the film is like reading a Times Portrait of Grief that keeps shifting focus to the journalist who wrote it .	comparative::world-knowledge::sarcasm/irony
+558	sst	2176	3	Christians sensitive to a reductionist view of their Lord as a luv-spreading Dr. Feelgood or omnipotent slacker will feel vastly more affronted than secularists , who might even praise God for delivering such an instant camp classic .	non-standard spelling::mixed
+560	sst	2179	2	Like a documentary version of Fight Club , shorn of social insight , intellectual pretension and cinematic interest .	desirable-element::world-knowledge::positive::shifter
+561	sst	2180	0	`` An entire film about researchers quietly reading dusty old letters . ''	negative::world-knowledge
+562	sst	2182	0	What 's at stake in this film is nothing more than an obsolete , if irritating , notion of class .	negative
+563	sst	2188	0	John Leguizamo may be a dramatic actor -- just not in this movie .	desirable-element::positive::negated
+564	sst	2199	2	Even if it ultimately disappoints , the picture does have about a matinee admission 's worth of funny to keep it afloat .	mixed
+565	sst	2202	0	Disturbingly superficial in its approach to the material .	negative::amplified
+566	sst	2203	1	If you 're not the target demographic ... this movie is one long chick-flick slog .	negative
+567	sst	2208	3	Never -LRB- sinks -RRB- into exploitation .	idioms::negative::negated
