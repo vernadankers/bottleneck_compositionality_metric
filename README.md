@@ -29,3 +29,13 @@ First obtain:
 2. Memorization: memorization values of Zhang et al., that extracts memorization values as demonstrated in their notebook https://github.com/xszheng2020/memorization/blob/master/sst/05_Atypical_Phase.ipynb
 
 Then visualise Figures 15 and 16 with the `analysis/sentiment/alternative_metrics.ipynb` notebook.
+
+```
+@inproceedings{dankers2022recursive,
+  title={Recursive Neural Networks with Bottlenecks Diagnose (Non-) Compositionality},
+  author={Dankers, Verna and Titov, Ivan},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2022},
+  pages={4361--4378},
+  year={2022}
+}
+```
